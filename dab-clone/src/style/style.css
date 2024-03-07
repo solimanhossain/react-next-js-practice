@@ -1,0 +1,10 @@
+.search-section {
+    z-index: -1;
+    background-image: url(https://dab.com.bd/master_asset/img/component.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 550px;
+    top: -25px;
+}
