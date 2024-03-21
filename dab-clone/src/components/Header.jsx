@@ -2,7 +2,6 @@ import { useLocation } from "react-router-dom";
 import SearchBox from "./Header/SearchBox";
 import NavBar from "./Header/NavBar";
 import SittingImg from "../assets/image/sitting.png";
-import "../style/style.css";
 
 export default function Header() {
     const location = useLocation();
@@ -15,7 +14,7 @@ export default function Header() {
                 <div className="search-section flex justify-evenly text-white">
                     <div className="flex flex-col justify-center">
                         <p className="text-xl">I Would Like To</p>
-                        <h1 className="text-5xl font-mediump-4">
+                        <h1 className="text-5xl font-medium py-4">
                             Buy Or Sell Domains
                         </h1>
                         <p className="text-xl pb-4">

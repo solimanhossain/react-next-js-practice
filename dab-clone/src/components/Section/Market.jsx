@@ -5,7 +5,7 @@ import Price3 from "../../assets/image/price-3.png";
 
 export default function Market() {
     return (
-        <section className="text-center mx-48 mb-8  bg-transparent">
+        <section className="text-center mx-48 mb-8 -mt-32 bg-transparent">
             <div className="mb-12">
                 <h1 className="text-5xl font-medium text-gray-800 p-4">
                     Domain Marketplace Of Bangladesh

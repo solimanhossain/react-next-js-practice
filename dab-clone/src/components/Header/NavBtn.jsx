@@ -15,10 +15,3 @@ export default function NavBtn({ children, url, txt = null }) {
         </li>
     );
 }
-
-// const mystyle = {
-//     width: 0,
-//     height: 0,
-//     borderTop: "100px solid transparent",
-//     borderRight: "100px solid blue",
-// };
