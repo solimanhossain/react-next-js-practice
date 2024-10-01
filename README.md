@@ -22,6 +22,8 @@ npm install
 npm run dev
 ```
 
+---
+
 <img src="./preview/ihadis.png?raw=true" alt="ihadis" width="250" align="left"/>
 
 ### Ihadis Bukhari | [Code](/ihadis-bukhari) | [Preview](https://ihadis-bukhari.vercel.app/) |
