@@ -1,5 +1,17 @@
 # Pratice Projects
 
+<img src="./preview/dashboard-weather.png" alt="dashboard-weather" width="250" align="left"/>
+
+### Weather Dashboard | [Code](/dashboard-weather) | [Preview](https://soliman-weather-dashboard.vercel.app/) |
+
+```
+cd dashboard-weather
+npm install
+npm run dev
+```
+
+---
+
 <img src="./preview/dictionary-app.png" alt="dictonary-app" width="250" align="left"/>
 
 ### Dictionary App | [Code](/dictionary-app) | [Preview](https://dictionary-sol.pages.dev/) |
@@ -24,7 +36,7 @@ npm run dev
 
 ---
 
-<img src="./preview/ihadis.png?raw=true" alt="ihadis" width="250" align="left"/>
+<img src="./preview/ihadis-bukhari.png" alt="ihadis-bukhari" width="250" align="left"/>
 
 ### Ihadis Bukhari | [Code](/ihadis-bukhari) | [Preview](https://ihadis-bukhari.vercel.app/) |
 
