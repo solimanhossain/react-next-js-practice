@@ -1,8 +1,8 @@
 # Pratice Projects
 
-<img src="https://github.com/solimanhossain/webdev-practice-master-academy/blob/main/preview/dictionary-app.png?raw=true" alt="dictonary-app" width="250" align="left"/>
+<img src="./preview/dictionary-app.png" alt="dictonary-app" width="250" align="left"/>
 
-### Dictionary App | [Code](https://github.com/solimanhossain/webdev-practice-master-academy/tree/main/dictionary-app) | [Preview](https://dictionary-sol.pages.dev/) |
+### Dictionary App | [Code](/dictionary-app) | [Preview](https://dictionary-sol.pages.dev/) |
 
 ```
 cd dictionary-app
@@ -12,12 +12,22 @@ npm run dev
 
 ---
 
-<img src="https://github.com/solimanhossain/webdev-practice-master-academy/blob/main/preview/dab-colne.png?raw=true" alt="improve-tasker" width="250" align="left"/>
+<img src="./preview/dab-colne.png" alt="improve-tasker" width="250" align="left"/>
 
-### Dab Clone | [Code](https://github.com/solimanhossain/webdev-practice-master-academy/tree/main/dab-clone) | [Preview](https://dab.pages.dev/) |
+### Dab Clone | [Code](/dab-clone) | [Preview](https://dab.pages.dev/) |
 
 ```
 cd dab-colne
+npm install
+npm run dev
+```
+
+<img src="./preview/ihadis.png?raw=true" alt="ihadis" width="250" align="left"/>
+
+### Ihadis Bukhari | [Code](/ihadis-bukhari) | [Preview](https://ihadis-bukhari.vercel.app/) |
+
+```
+cd ihadis-bukhari
 npm install
 npm run dev
 ```

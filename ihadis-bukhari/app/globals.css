@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    @font-face {
+        font-family: "Kalpurush";
+        font-style: normal;
+        font-weight: 400;
+        src: url("/fonts/kalpurush.ttf");
+    }
+    .kalpurush-font {
+        font-family: "Kalpurush", cursive;
+        font-size: 3.4rem;
+    }
+}
